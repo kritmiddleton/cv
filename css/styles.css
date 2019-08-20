@@ -1,0 +1,163 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 45px;
+  color: #35b0ab;
+  padding: 2%;
+}
+
+P {
+  padding-top: 7px;
+  text-align: center;
+}
+
+/* H1 WITH COLOUR FONT */
+#h1c {
+  font-size: 45px;
+  color: #fff;
+}
+
+
+
+/* section = Title */
+.container-fluid-top {
+  background-color: #fff;
+  text-align: center;
+  height: 1700px;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.title-cloud {
+  width: 100%;
+  height: 600px;
+  padding: 0;
+}
+
+.title-logo {
+  width: 70%;
+}
+
+.title-ocean {
+  width: 100%;
+  height: 600px;
+  margin-bottom: 20px;
+}
+
+/* Contact-Info Section */
+.contact-info {
+  background-color: #fff;
+  text-align: center;
+  margin-bottom: 90px;
+}
+
+/* Personal Info Section */
+.personal-info {
+  background-color: #35b0ab;
+  text-align: center;
+  padding: 20px 150px 100px;
+}
+
+/* Work Experience Section */
+
+.work-ex {
+  padding: 2%;
+  text-align: left;
+  padding-bottom: 5%;
+  background-color: #fff;
+}
+
+
+/* Educations Section */
+#education-title {
+  font-size: 45px;
+  color: white;
+  background-color: #35b0ab
+}
+
+#education {
+  background-color: #35b0ab;
+  text-align: center;
+  padding: 7% 15%;
+  color: #fff;
+}
+
+  /* GCSEs */
+
+  .gcses {
+    text-align: left;
+    padding: 7%;
+  }
+
+  .gcses-img {
+  width: 80%;
+  margin-top: 100px;
+}
+
+/* SKILLS IMAGE */
+
+.skills-section {
+  background-color: #35b0ab;
+  padding: 4%;
+  margin-bottom: 50px;
+}
+
+.skills-img {
+  width: 60%;
+  padding: 7%;
+}
+
+.skills-hover {
+  color: black;
+}
+
+.skills-hover:hover {
+  color: #fff;
+}
+
+/* HOBBIES & INTERESTS SECTION */
+#hobbies-title {
+  font-size: 45px;
+  color: #35b0ab;
+  background-color: #fff;
+  padding: 10%;
+
+}
+
+.hobbies-section {
+  background-color:#fff;
+  padding: 5%;
+}
+
+.bottom-container {
+  background-color: #35b0ab;
+  width: 100%;
+}
+
+/* CAROUSAL Css */
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+/* BOTTOM SECTION */
+
+.bottom-container {
+  height: 60px;
+  background-color: #35b0ab;
+  text-align: center;
+  color: #fff;
+}
+
+.blank {
+  width: 100%;
+  background-color:#fff;
+  height: 130px;
+
+}
